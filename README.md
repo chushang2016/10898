@@ -1,4 +1,4 @@
-#  10898_ssm741白云会议管理系统+vue演示
+#  10898_ssm白云会议管理系统+vue演示
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10898
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10898
 
 * 项目演示视频: https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10898_ssm741%E7%99%BD%E4%BA%91%E4%BC%9A%E8%AE%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%2Bvue%E6%BC%94%E7%A4%BA%E5%BD%95%E5%83%8F.mp4
 
